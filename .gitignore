@@ -1,0 +1,4 @@
+.terraform.lock.hcl
+terraform.tfsate
+.terraform
+terraform.tfsate.backup
