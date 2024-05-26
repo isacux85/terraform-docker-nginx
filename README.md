@@ -1,2 +1,2 @@
 # terraform
-proyecto con practicas de terraform
+Proyecto con practicas de terraform
