@@ -8,9 +8,9 @@ Previo:
 =======
 
 Tener instalado en local docker: https://docs.docker.com/engine/install/ubuntu/
+
 Tener instalado terraform: https://developer.hashicorp.com/terraform/tutorials/docker-get-started/install-cli
 
-====================
 Ejecutar en terminal
 
 
