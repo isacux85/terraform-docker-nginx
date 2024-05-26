@@ -1,5 +1,5 @@
-====================
-Terraform en local
+
+#Terraform en local
 ====================
 
 Proyecto de practica usando terraform con docker en local.
@@ -12,7 +12,7 @@ Tener instalado terraform: https://developer.hashicorp.com/terraform/tutorials/d
 
 ====================
 Ejecutar en terminal
-====================
+
 
 terraform init
 
