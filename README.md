@@ -1,9 +1,5 @@
-
 #Terraform en local con docker
-====================
-
-Proyecto para practicar terraform y desplegar contenedores docker.
-Es un primer acercamiento a la herramienta de terrfaorm desplegando contenedores docker, en este ejemplo se levanta un nginx.
+Receta para desplegar un contendor docker con nginx
 
 Previo: 
 
@@ -11,16 +7,18 @@ Tener instalado en local docker: https://docs.docker.com/engine/install/ubuntu/
 
 Tener instalado terraform: https://developer.hashicorp.com/terraform/tutorials/docker-get-started/install-cli
 
-Clonar proyecto y parado en el mismo abrir terminal
+Clonar proyecto y parado en el mismo, abrir terminal
 
-Ejecutar en terminal:
+Ejecutar:
 
-terraform init
+- "terraform init"
 
-terrafom plan
+- "terrafom plan"
 
-terraform apply -auto-approve
+- "terraform apply -auto-approve"
 
 ir a browser y poner en la url: http://localhost:8080
 
-terraform destroy -auto-approve
+Eliminar todo:
+
+- "terraform destroy -auto-approve"
